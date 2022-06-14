@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1607024210 source:c:\adrian\pg\lab z pop\projekt 1 blackjack\main.cpp
+	<iostream>
+	<time.h>
+	<windows.h>
+	<iomanip>
+
+1608331846 source:c:\adrian\.pg\semestr 1\podstawy programowania\projekty z pop\projekt 1 blackjack\main.cpp
+	<iostream>
+	<time.h>
+	<windows.h>
+	<iomanip>
+
